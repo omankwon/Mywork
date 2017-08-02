@@ -1,2 +1,18 @@
 [GitHub 사용법]
 1. setup
+
+git commit -m "1st update for how to use git" HowTosetGit.txt
+git commit
+
+$ git push -u origin master
+Username for 'https://github.com': omankwon
+Password for 'https://omankwon@github.com':
+Counting objects: 11, done.
+Delta compression using up to 8 threads.
+Compressing objects: 100% (6/6), done.
+Writing objects: 100% (8/8), 992 bytes | 0 bytes/s, done.
+Total 8 (delta 1), reused 0 (delta 0)
+remote: Resolving deltas: 100% (1/1), done.
+To https://github.com/omankwon/Mywork.git
+   93ffad5..2e08d96  master -> master
+Branch master set up to track remote branch master from origin.
