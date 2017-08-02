@@ -21,12 +21,7 @@ $git add (file name)
 $git commit -m "1st update for how to use git" HowTosetGit.txt
 $git commit
 $git push - u origin master
-
-
-
-$ git push -u origin master
-$ git log -p
-
+$git log -p
 
 
 [참고 자료]
