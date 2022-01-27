@@ -10,9 +10,8 @@
 2.create workDir on window.
 3. setup repository.
 git config --global user.name "Your Name"
-ex)$git config --global user.name "omankwon"
 git config --global user.email "youremail@domain.com"
-ex)$git config --global user.email kwon.oman@gmail.com
+
 git clone (url)
 ex)git clone https://github.com/omankwon/Mywork
 
